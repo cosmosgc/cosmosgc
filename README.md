@@ -10,7 +10,7 @@
 	<section>
 		&nbsp; &nbsp;
 		<a href="[https://github.com/cosmosgc">
-		<img width="375" src="https://leetcard.jacoblin.cool/cosmosgc?theme=dark&font=Glory">
+		<img width="375" src="https://leetcard.jacoblin.cool/cosmosgc?theme=dark&font=Passero%20One&ext=activity">
 		</a>
 	</section>
 	<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" /></footer>
